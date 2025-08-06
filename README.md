@@ -22,11 +22,11 @@ AI Mail Generator is a full-stack web application that uses **Generative AI** to
 
 ---
 
-## 📸 Preview
+## DEPLOYMENT
 
-[Add a screenshot or screen recording here if available]
+FRONTEND(Vite): https://vercel.com/manesh-06s-projects/ai-email-generator/2gQHCK9NxgusWudJ1NwoQDEmHqBC
 
----
+BACKEND(Node): POST https://ai-email-generator-3-psob.onrender.com/api/generate-email
 
 ## 📦 Installation
 
@@ -35,3 +35,5 @@ AI Mail Generator is a full-stack web application that uses **Generative AI** to
 ```bash
 git clone https://github.com/manesh-06/AI_Mail_Generator.git
 cd AI_Mail_Generator
+
+
